@@ -13,12 +13,6 @@ from PIL import Image
 #import plotly as px
 #import plotly.figure_factory as ff
 
-st.markdown("Fishing for Striped Bass")
-
-multi = '''We had fun and learned at the same time!'''
-st.markdown(multi)
-
-
 
 """
 # Draft of June 8, 2024 Kids Fishing Data Science Project and Activity
@@ -84,6 +78,11 @@ st.image(image, caption='Legacy Parent with Two Striped Bass')
 image2 = Image.open('images/AllenStripedBass12lbs.June8.2024jpg.jpg')
 st.image(image2, caption='Legacy Parent with 13Lb Striped Bass')
 
+
+st.markdown("Fishing for Striped Bass")
+
+multi = '''We had fun and learned at the same time!'''
+st.markdown(multi)
 
 """
 
