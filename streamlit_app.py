@@ -68,20 +68,43 @@ June 8, 2024, the Trip
 """
 """
 Fishing at "The Race"
+"""
+"""
 Average depth: 140 feet
+"""
+"""
 Near where: Fishers Island NY
+"""
+"""
 Targeted Fish: Striped Bass
+"""
+"""
 Other Fish Caught: Bluefish
+"""
+"""
 Fishing Pole Equipment: Medium to Heavy Rod
+"""
+"""
 Reel Type: Penn Conventional Reel
+"""
+"""
 Fishing Line: 50 LB Monofilament 
+"""
+"""
 Name of Participants: Anglers, Boat Captain, Mate
+"""
 Method of catching: 
 Using 10 ounce Diamond jig lures.
-Technique;
+Technique:
+"""
 On a drift, drop the diamond jig to the bottom on ocean floor, once hitting the floor, Reel up 15 to 30 times and drop the diamond jig back to the ocean floor. Repeat until the Captain instructs the Anglers to Reel up the lines so another drift can be done.
+"""
+"""
 Bucktails and Swimmer lures on a 3 way rig.
+"""
+"""
 Trolling with two umbrella rigs which simulate eels and sand eels in distress.
+"""
 Thanks
 Christopher Enam Franklin, MS
 www.franklydatascience.com 
@@ -89,7 +112,6 @@ www.franklydatascience.com
 
 """
 # What We Caught
-
 """
 
 
