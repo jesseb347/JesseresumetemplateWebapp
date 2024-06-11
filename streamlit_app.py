@@ -5,6 +5,9 @@ import pandas as pd
 import streamlit as st
 import numpy as np
 import time
+from PIL import Image
+
+
 # import pyplot as plt
 
 #import plotly as px
@@ -25,6 +28,10 @@ More info to be added consistently
 # st.balloons()
 
 # st.snow()
+
+image = Image.open('images/rickfordstriperbass1.jpg')
+
+st.image(image, caption='Rickford Two Striped Bass')
 
 df2 = pd.DataFrame(
     [
