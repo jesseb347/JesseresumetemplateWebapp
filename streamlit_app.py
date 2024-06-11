@@ -25,6 +25,10 @@ from PIL import Image
 # Hi Everyone
 """
 
+
+st.subheader('What a pleasure it was on Saturday June 8, 2024 Fishing and Fellowshipping', divider='rainbow')
+st.subheader('_Fishing with Friends and Family_ is :blue[cool] :sunglasses:')
+
 #st.balloons()
 
 #st.snow()
