@@ -37,13 +37,13 @@ st.subheader('_Fishing with Friends and Family_ is :blue[cool] :sunglasses:')
 
 """
 # The Beginning of the Trip
+"""
 
 video_file = open('images/BernardBeginningFishingTrip.mp4', 'rb')
 video_bytes = video_file.read()
 
 st.video(video_bytes)
 
-"""
 """
 # Thank You Legacy Parents!!
 """
