@@ -139,6 +139,12 @@ image4 = Image.open('images/kudosblue.jpg')
 
 st.image(image4, caption='Legacy Scholar with a 15LB, 36 inch Bluefish')
 
+image5 = Image.open('images/AllanStriper13lb.jpeg')
+
+st.image(image5, caption='Legacy Parent with a 13LB Striped Bass')
+
+
+
 st.markdown("Fishing for Striped Bass and Bluefish")
 
 multi = '''We had fun and learned at the same time!'''
