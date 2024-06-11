@@ -22,7 +22,7 @@ from PIL import Image
 """
 
 """
-# Hi everyone
+# Hi Everyone
 """
 
 #st.balloons()
