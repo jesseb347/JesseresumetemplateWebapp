@@ -16,9 +16,9 @@ from PIL import Image
 
 """
 # Draft of June 8, 2024 Kids Fishing Data Science Project and Activity
-DataFrames which will be the team info.
-5 teams of 2 Kids
-More info to be added consistently
+# Teams on the Fishing Trip
+5 teams with 2 Kids each team
+
 """
 
 """
