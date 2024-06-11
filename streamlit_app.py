@@ -39,7 +39,7 @@ More info to be added consistently
 
 45 lb striper on a private charter with The Legacy Foundation of Hartford kids today. 
 We caught like 12 stripers. 7 blue fish and that fish in the picture was 45 pounds times 25 Dollars a pound. 
-It's a thousand dollar fish. 45 lbs x 24.99 a lb on a fish market price = $1,125 striped bass. Returned to the ocean for another day. 
+Its a thousand dollar fish. 45 lbs x 24.99 a lb on a fish market price = $1,125 striped bass. Returned to the ocean for another day. 
 How did we do this? 
 Some of the Secret is Right people with the know how and resources and gratitude to execute for our future leaders.
 
