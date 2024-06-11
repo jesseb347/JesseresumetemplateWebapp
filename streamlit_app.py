@@ -15,12 +15,7 @@ from PIL import Image
 
 st.markdown("Fishing for Striped Bass")
 
-multi = '''If you end a line with two spaces,
-a soft return is used for the next line.
 
-Two (or more) newline characters in a row will result in a hard return.
-'''
-st.markdown(multi)
 
 """
 # Draft of June 8, 2024 Kids Fishing Data Science Project and Activity
