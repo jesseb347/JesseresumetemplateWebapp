@@ -15,7 +15,7 @@ from PIL import Image
 
 
 """
-# Demo of streamlit components Kids Fishing Data Science Project
+# Draft of June 8, 2024 Kids Fishing Data Science Project and Activity
 DataFrames which will be the team info.
 5 teams of 2 Kids
 More info to be added consistently
