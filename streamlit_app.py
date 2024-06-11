@@ -15,9 +15,7 @@ from PIL import Image
 
 st.markdown("Fishing for Striped Bass")
 
-multi = '''If you end a line with two spaces,
-a soft return is used for the next line.
-'''
+multi = '''We had fun and learned at the same time!'''
 st.markdown(multi)
 
 
