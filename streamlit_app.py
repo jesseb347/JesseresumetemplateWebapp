@@ -39,6 +39,13 @@ st.image(image, caption='Legacy Parent with Two Striped Bass')
 """
 
 """
+image2 = Image.open('images/rickfordstriperbass1.jpg')
+
+st.image(image, caption='Legacy Parent with 12Lb Striped Bass')
+
+
+"""
+"""
 df2 = pd.DataFrame(
     [
         {"Team A": "John", "Role": "Captain", "Fish Caught": 21},
