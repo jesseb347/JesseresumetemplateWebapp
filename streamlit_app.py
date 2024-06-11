@@ -29,6 +29,9 @@ More info to be added consistently
 
 # st.snow()
 
+"""
+Hi Mr. Kirton
+"""
 image = Image.open('images/rickfordstriperbass1.jpg')
 
 st.image(image, caption='Rickford Two Striped Bass')
