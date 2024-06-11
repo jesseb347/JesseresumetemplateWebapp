@@ -30,7 +30,7 @@ More info to be added consistently
 # st.snow()
 
 """
-Hi Mr. Kirton
+# Hi Mr. Kirton
 """
 image = Image.open('images/rickfordstriperbass1.jpg')
 
