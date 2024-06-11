@@ -32,7 +32,7 @@ More info to be added consistently
 """
 # Hi Legacy Parents
 """
-image = Image.open('images/rickfordstriperbass1.jpg')
+image = Image.open('images/AllenStripedBass12lbs.June8.2024jpg.jpg')
 
 st.image(image, caption='Legacy Parent with Two Striped Bass')
 
