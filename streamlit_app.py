@@ -19,6 +19,7 @@ from PIL import Image
 DataFrames which will be the team info.
 5 teams of 2 Kids
 More info to be added consistently
+"""
 
 # Hi everyone
 """
