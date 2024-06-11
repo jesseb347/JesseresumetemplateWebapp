@@ -57,20 +57,18 @@ Bucktails and Swimmer lures on a 3 way rig.
 Trolling with two umbrella rigs which simulate eels and sand eels in distress.
 Thanks
 Christopher Enam Franklin, MS
-www.franklydatascience.com
-
-'''
+www.franklydatascience.com '''
 st.markdown(multi)
 
 """
-image = Image.open('images/AllenStripedBass12lbs.June8.2024jpg.jpg')
+image = Image.open('images/rickfordstriperbass1.jpg')
 
 st.image(image, caption='Legacy Parent with Two Striped Bass')
 """
 
 """
 image2 = Image.open('images/rickfordstriperbass1.jpg')
-st.image(image, caption='Legacy Parent with 12Lb Striped Bass')
+st.image(image2, caption='Legacy Parent with 12Lb Striped Bass')
 """
 
 """
