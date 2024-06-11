@@ -21,21 +21,23 @@ DataFrames which will be the team info.
 More info to be added consistently
 """
 
+"""
 # Hi everyone
 """
 
-# st.balloons()
+#st.balloons()
 
-# st.snow()
+#st.snow()
 
 """
 # Hi Legacy Parents
 """
+
 """
-#Fishing Strategy from June 8, 2024 Event
+# Fishing Strategy from June 8, 2024 Event
 """
 
-multi = '''45 lb striper on a private charter with The Legacy Foundation of Hartford kids today. 
+45 lb striper on a private charter with The Legacy Foundation of Hartford kids today. 
 We caught like 12 stripers. 7 blue fish and that fish in the picture was 45 pounds times 25 Dollars a pound. 
 It's a thousand dollar fish. 45 lbs x 24.99 a lb on a fish market price = $1,125 striped bass. Returned to the ocean for another day. 
 How did we do this? 
@@ -60,8 +62,8 @@ Bucktails and Swimmer lures on a 3 way rig.
 Trolling with two umbrella rigs which simulate eels and sand eels in distress.
 Thanks
 Christopher Enam Franklin, MS
-www.franklydatascience.com '''
-st.markdown(multi)
+www.franklydatascience.com 
+
 
 
 image = Image.open('images/rickfordstriperbass1.jpg')
@@ -74,7 +76,7 @@ image2 = Image.open('images/rickfordstriperbass1.jpg')
 st.image(image2, caption='Legacy Parent with 12Lb Striped Bass')
 
 
-"""
+
 df2 = pd.DataFrame(
     [
         {"Team A": "John", "Role": "Captain", "Fish Caught": 21},
