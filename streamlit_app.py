@@ -45,6 +45,7 @@ How did we do this?
 Some of the Secret is Right people with the know how and resources and gratitude to execute for our future leaders.
 """
 
+"""
 Here is some important data points:
 June 8, 2024, the Trip
 Fishing at "The Race"
@@ -65,7 +66,7 @@ Trolling with two umbrella rigs which simulate eels and sand eels in distress.
 Thanks
 Christopher Enam Franklin, MS
 www.franklydatascience.com 
-
+"""
 
 
 image = Image.open('images/rickfordstriperbass1.jpg')
