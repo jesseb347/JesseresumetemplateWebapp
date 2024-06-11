@@ -81,6 +81,8 @@ st.image(image2, caption='Legacy Parent with 12Lb Striped Bass')
 
 """
 
+
+
 """
 df2 = pd.DataFrame(
     [
