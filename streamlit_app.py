@@ -17,7 +17,7 @@ from PIL import Image
 """
 # Demo of streamlit components Kids Fishing Data Science Project
 DataFrames which will be the team info.
-4 teams of 5 Kids
+5 teams of 2 Kids
 More info to be added consistently
 
 # Hi everyone
