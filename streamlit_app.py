@@ -30,7 +30,7 @@ More info to be added consistently
 # st.snow()
 
 """
-# Hi Legacy Parent
+# Hi Legacy Parents
 """
 image = Image.open('images/rickfordstriperbass1.jpg')
 
