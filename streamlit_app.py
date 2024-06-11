@@ -75,7 +75,7 @@ st.image(image, caption='Legacy Parent with Two Striped Bass')
 
 
 
-image2 = Image.open('images/rickfordstriperbass1.jpg')
+image2 = Image.open('images/AllenStripedBass12lbs.June8.2024jpg.jpg')
 st.image(image2, caption='Legacy Parent with 12Lb Striped Bass')
 
 
