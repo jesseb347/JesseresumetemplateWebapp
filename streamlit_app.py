@@ -62,7 +62,11 @@ Some of the Secret is Right people with the know how and resources and gratitude
 
 """
 Here is some important data points:
+"""
+"""
 June 8, 2024, the Trip
+"""
+"""
 Fishing at "The Race"
 Average depth: 140 feet
 Near where: Fishers Island NY
@@ -83,18 +87,29 @@ Christopher Enam Franklin, MS
 www.franklydatascience.com 
 """
 
+"""
+# What We Caught
+
+"""
+
 
 image = Image.open('images/rickfordstriperbass1.jpg')
 
 st.image(image, caption='Legacy Parent with Two Striped Bass')
 
 
-
 image2 = Image.open('images/AllenStripedBass12lbs.June8.2024jpg.jpg')
 st.image(image2, caption='Legacy Parent with 13Lb Striped Bass')
 
+image3 = Image.open('images/GregJ45LB.jpg')
 
-st.markdown("Fishing for Striped Bass")
+st.image(image3, caption='Legacy Founder with a 45LB Striped Bass')
+
+image4 = Image.open('images/kudosblue.jpg')
+
+st.image(image4, caption='Legacy Scholar with a 15LB, 36 inch Bluefish')
+
+st.markdown("Fishing for Striped Bass and Bluefish")
 
 multi = '''We had fun and learned at the same time!'''
 st.markdown(multi)
@@ -160,73 +175,6 @@ with st.echo(code_location='below'):
     st.altair_chart(alt.Chart(pd.DataFrame(data), height=500, width=500)
         .mark_circle(color='#0068c9', opacity=0.5)
         .encode(x='x:Q', y='y:Q'))
-"""
-# Demo of Coin Flip
-Credit to:
-Nick Antonaccio (nick@com-pute.com)
-"""
-import streamlit as st, random, time    
-
-time.sleep(1)
-coins = ['http://re-bol.com/heads.jpg', 'http://re-bol.com/tails.jpg']
-coin = random.choice(coins)
-st.image(coin)
-if st.button('Flip'):
-  st.experimental_rerun()
-
-"""
-# Demo of Live Webcam Viewer
-Credit to:
-Nick Antonaccio (nick@com-pute.com)
-"""
-import streamlit as st
-
-cam=st.selectbox(
-  'Choose a Cam', 
-  [
-    '',
-    'pitriverbridge/pitriverbridge.jpg',
-    'johnsongrade/johnsongrade.jpg',
-    'perez/perez.jpg',
-    'mthebron/mthebron.jpg',
-    'eurekaway/eurekaway.jpg',
-    'sr70us395/sr70us395.jpg',
-    'bogard/bogard.jpg',
-    'eastriverside/eastriverside.jpg',
-  ]
-)
-if cam:
-  st.image('https://cwwp2.dot.ca.gov/data/d2/cctv/image/' + cam)
-
-"""
-# Demo of Calculator
-Credit to:
-Nick Antonaccio (nick@com-pute.com)
-"""
-import streamlit as st, ast
-
-if 'total' not in st.session_state:
-  st.session_state.total=''
-if st.button('Clear'): st.session_state.total=''
-col1, col2, col3, col4, col5=st.columns([1,1,1,1,4])
-if col1.button('1'): st.session_state.total+='1'
-if col2.button('2'): st.session_state.total+='2'
-if col3.button('3'): st.session_state.total+='3'
-if col4.button('+'): st.session_state.total+='+'
-if col1.button('4'): st.session_state.total+='4'
-if col2.button('5'): st.session_state.total+='5'
-if col3.button('6'): st.session_state.total+='6'
-if col4.button('-'): st.session_state.total+='-'
-if col1.button('7'): st.session_state.total+='7'
-if col2.button('8'): st.session_state.total+='8'
-if col3.button('9'): st.session_state.total+='9'
-if col4.button('.'): st.session_state.total+='.'
-if col1.button('0'): st.session_state.total+='0'
-if col2.button('*'): st.session_state.total+='*'
-if col3.button('/'): st.session_state.total+='/'
-if col4.button('='): 
-  st.session_state.total=str(eval(st.session_state.total))
-st.text_input('Result', st.session_state.total)
 
 st.write("Streamlit Play:) creating dataframes and plotly plots")
 
