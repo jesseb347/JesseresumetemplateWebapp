@@ -172,14 +172,7 @@ dc = {'Fish Caught':[1,2,3,4,5,6,7,8,9,10,11],
 fishdata = pd.DataFrame(data = dc)
 st.bar_chart(fishdata, y = 'Fish Caught', x='Fishing Casts')
 
-"""
-# Demo of Chart Data DataFrame
-"""
-chart_data = pd.DataFrame(
-     np.random.randn(20, 3),
-     columns=["a", "b", "c"])
 
-st.bar_chart(chart_data)
 
 """
 #Demo of Slider
