@@ -13,6 +13,7 @@ from PIL import Image
 #import plotly as px
 #import plotly.figure_factory as ff
 
+st.markdown("Fishing on for Striped Bass")
 
 """
 # Draft of June 8, 2024 Kids Fishing Data Science Project and Activity
