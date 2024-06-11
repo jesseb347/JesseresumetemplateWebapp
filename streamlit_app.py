@@ -30,7 +30,7 @@ from PIL import Image
 #st.snow()
 
 """
-# Hi Legacy Parents
+# Thank You Legacy Parents!!
 """
 
 """
