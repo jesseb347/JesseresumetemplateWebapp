@@ -33,6 +33,9 @@ image = Image.open('images/rickfordstriperbass1.jpg')
 
 st.image(image, caption='Rickford Two Striped Bass')
 
+"""
+
+"""
 df2 = pd.DataFrame(
     [
         {"Team A": "John", "Role": "Captain", "Fish Caught": 21},
