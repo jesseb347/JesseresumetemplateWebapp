@@ -30,11 +30,11 @@ More info to be added consistently
 # st.snow()
 
 """
-# Hi Mr. Kirton
+# Hi Legacy Parent
 """
 image = Image.open('images/rickfordstriperbass1.jpg')
 
-st.image(image, caption='Rickford Two Striped Bass')
+st.image(image, caption='Legacy Parent with Two Striped Bass')
 
 """
 
