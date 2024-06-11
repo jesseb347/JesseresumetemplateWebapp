@@ -31,7 +31,7 @@ More info to be added consistently
 # Hi Legacy Parents
 """
 """
-# Fishing Strategy from June 8, 2024 Event
+#Fishing Strategy from June 8, 2024 Event
 """
 
 multi = '''45 lb striper on a private charter with The Legacy Foundation of Hartford kids today. 
@@ -62,16 +62,16 @@ Christopher Enam Franklin, MS
 www.franklydatascience.com '''
 st.markdown(multi)
 
-"""
+
 image = Image.open('images/rickfordstriperbass1.jpg')
 
 st.image(image, caption='Legacy Parent with Two Striped Bass')
-"""
 
-"""
+
+
 image2 = Image.open('images/rickfordstriperbass1.jpg')
 st.image(image2, caption='Legacy Parent with 12Lb Striped Bass')
-"""
+
 
 """
 df2 = pd.DataFrame(
