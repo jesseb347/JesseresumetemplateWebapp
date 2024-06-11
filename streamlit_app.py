@@ -111,10 +111,11 @@ Bucktails and Swimmer lures on a 3 way rig.
 """
 Trolling with two umbrella rigs which simulate eels and sand eels in distress.
 """
-
+"""
 Thanks
 Christopher Enam Franklin, MS
 www.franklydatascience.com 
+"""
 """
 
 """
