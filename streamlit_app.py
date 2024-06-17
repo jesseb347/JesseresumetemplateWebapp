@@ -208,7 +208,7 @@ with st.echo(code_location='below'):
 st.write("Streamlit Play:) creating dataframes and plotly plots")
 
 """
-# June 8, 2024 Fishing Event Scheduling Tracker with Slider functionality
+# June 8, 2024 Fishing Event Scheduling Tracker with Slider Functionality
 """
 
 from datetime import time
