@@ -44,7 +44,7 @@ video_bytes = video_file.read()
 
 st.video(video_bytes)
 
-vimeo_url = "https://vimeo.com/979025140"
+vimeo_url = "https://vimeo.com/837186496"
 st.video(vimeo_url)
 
 
