@@ -44,6 +44,10 @@ video_bytes = video_file.read()
 
 st.video(video_bytes)
 
+VIDEO_URL = "https://vimeo.com/957356938"
+st.video(VIDEO_URL, subtitles="Legacy Scholars, Parents, and Chaperones Deep Sea Fishing")
+
+
 """
 # Thank You Legacy Parents!!
 """
