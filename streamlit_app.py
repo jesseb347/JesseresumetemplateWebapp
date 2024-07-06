@@ -6,6 +6,8 @@ import streamlit as st
 import numpy as np
 import time
 from PIL import Image
+pip install streamlit
+
 
 
 # import pyplot as plt
