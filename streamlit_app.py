@@ -46,8 +46,8 @@ st.video(video_bytes)
 
 st.audio("Rev.mp3", format="audio/mpeg", loop=True)
 
-vimeo_url = "https://vimeo.com/837186496"
-st.video(vimeo_url)
+#vimeo_url = "https://vimeo.com/837186496"
+#st.video(vimeo_url)
 
 
 """
