@@ -6,8 +6,6 @@ import streamlit as st
 import numpy as np
 import time
 from PIL import Image
-pip install streamlit
-
 
 
 # import pyplot as plt
@@ -46,8 +44,7 @@ video_bytes = video_file.read()
 
 st.video(video_bytes)
 
-vimeo_url = "https://vimeo.com/979025140/5b72093614?share=copy"
-
+vimeo_url = "https://vimeo.com/979025140"
 st.video(vimeo_url)
 
 
