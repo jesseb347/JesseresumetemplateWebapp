@@ -220,7 +220,7 @@ st.write("Streamlit Play:) creating dataframes and plotly plots")
 from datetime import time
 
 appointment = st.slider(
-    "Schedule your appointment:",
+    "Legacy Scholars use the Slider to show when we caught the most fish, its in Military Time, you can do it! :",
     value=(time(11, 30), time(12, 45)))
 st.write("You're scheduled for:", appointment)
 
