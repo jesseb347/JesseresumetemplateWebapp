@@ -222,5 +222,5 @@ from datetime import time
 appointment = st.slider(
     "Legacy Scholars use the Slider to show when we caught the most fish, its in Military Time, you can do it! :",
     value=(time(11, 30), time(12, 45)))
-st.write("You're scheduled for:", appointment)
+st.write("Legacy Scholars, you said we caught the most fish between these times:", appointment)
 
