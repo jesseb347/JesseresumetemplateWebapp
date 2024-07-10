@@ -17,12 +17,12 @@ from PIL import Image
 """
 # Draft of June 8, 2024 Kids Fishing Data Science Project and Activity
 # Teams on the Fishing Trip
-5 teams with 2 Kids each team Winslow hi
+5 teams with 2 Kids each team
 
 """
 
 """
-# Hi Winslow
+# Hi Legacy Scholars, Parents, and Chaperones
 """
 
 st.title('Teaching Legacy Scholars how to create Web Applications in Python')
