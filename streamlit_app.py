@@ -22,7 +22,7 @@ from PIL import Image
 """
 
 """
-# Hi Everyone
+# Hi Winslow
 """
 
 st.title('Teaching Legacy Scholars how to create Web Applications in Python')
