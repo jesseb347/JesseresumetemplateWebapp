@@ -30,10 +30,9 @@ st.title('Teaching Legacy Scholars how to create Web Applications in Python')
 st.subheader('What a pleasure it was on Saturday June 8, 2024 Fishing and Fellowshipping', divider='rainbow')
 st.subheader('_Fishing with Friends and Family_ is :blue[cool] :sunglasses:')
 
-# Hi Que
-st.balloons()
+#st.balloons()
 
-st.snow()
+#st.snow()
 
 
 
