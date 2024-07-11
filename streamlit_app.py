@@ -23,6 +23,7 @@ from PIL import Image
 
 """
 # Hi Legacy Scholars, Parents, and Chaperones
+# Hi Que
 """
 
 st.title('Teaching Legacy Scholars how to create Web Applications in Python')
