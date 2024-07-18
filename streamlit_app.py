@@ -150,6 +150,9 @@ image5 = Image.open('images/AllanStriper13lb.jpeg')
 
 st.image(image5, caption='Legacy Parent with a 13LB Striped Bass')
 
+image6 = Image.open('images/JesseResume.jpeg')
+st.image(image6, caption='Jesse Resume')
+
 
 
 st.markdown("Fishing for Striped Bass and Bluefish")
