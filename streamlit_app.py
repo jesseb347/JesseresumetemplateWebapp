@@ -139,7 +139,7 @@ st.image(image8, caption='resized image using PIL')
 
 image9 = Image.open('images/kudosblue.jpg')
 new_image = image9.resize((100,50))
-st.image(image8, caption='resized image using PIL')
+st.image(image9, caption='resized image using PIL')
 
 
 
