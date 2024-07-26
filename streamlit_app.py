@@ -39,7 +39,7 @@ st.subheader('Welcome to a look of my professional journey!', divider='rainbow')
 # The Beginning of the Trip
 """
 
-video_file = open('BernardBeginningFishingTrip.mp4', 'rb')
+video_file = open('images/testclip.mov', 'rb')
 video_bytes = video_file.read()
 
 st.video(video_bytes)
