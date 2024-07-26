@@ -137,6 +137,10 @@ image8 = Image.open('images/kudosblue.jpg')
 new_image = image8.resize((300,200))
 st.image(image8, caption='resized image using PIL')
 
+image9 = Image.open('images/kudosblue.jpg')
+new_image = image9.resize((1000,500))
+st.image(image8, caption='resized image using PIL')
+
 
 
 
