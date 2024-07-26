@@ -134,7 +134,11 @@ image7 = Image.open('images/Jesseresume2.jpeg')
 st.image(image7, caption='Jesse Resume2')
 
 image8 = Image.open('images/kudosblue.jpg')
-st.image(image8, width-300, height=200)
+new_image = image8.resize((300,200))
+st.image(image8, caption='resized image using PIL')
+
+
+
 
 
 
