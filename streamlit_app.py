@@ -26,7 +26,7 @@ from PIL import Image
 """
 
 st.title('Professional Portfolio of     Jesse Boateng')
-st.subheader('What a pleasure it was on Saturday June 8, 2024 Fishing and Fellowshipping', divider='rainbow')
+st.subheader('What a pleasure it was on Saturday June 8, 2024 Fishing and Fellowshipping', divider='purple')
 st.subheader('_Fishing with Friends and Family_ is :blue[cool] :sunglasses:')
 
 #st.balloons()
