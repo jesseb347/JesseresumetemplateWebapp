@@ -15,13 +15,13 @@ from PIL import Image
 
 
 """
-# Draft of Jesse Resume!
+#Draft of Jesse Resume!
 
 
 """
 
 """
-# Hi Legacy Scholars, Parents, and Chaperones
+#Hi Legacy Scholars, Parents, and Chaperones
 
 """
 
