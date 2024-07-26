@@ -128,18 +128,10 @@ www.franklydatascience.com
 # What We Caught
 """
 image6 = Image.open('images/JesseResume.jpeg')
-st.image(image6, caption='Jesse Resume')
+st.image(image6, use_column_width=True, caption='Jesse Resume')
 
 image7 = Image.open('images/Jesseresume2.jpeg')
-st.image(image7, caption='Jesse Resume2')
-
-image8 = Image.open('images/kudosblue.jpg')
-new_image = image8.resize((300,200))
-st.image(image8, caption='resized image using PIL')
-
-image9 = Image.open('images/kudosblue.jpg')
-new_image = image9.resize((100,50))
-st.image(image9, caption='resized image using PIL')
+st.image(image7, use_column_width=True, caption='Jesse Resume2')
 
 image10 = Image.open('images/JesseResume.jpeg')
 new_image = image10.resize((300,200))
