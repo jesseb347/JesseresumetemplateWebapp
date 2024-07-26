@@ -26,7 +26,7 @@ from PIL import Image
 """
 
 st.title('Professional Portfolio of     Jesse Boateng')
-st.subheader('What a pleasure it was on Saturday June 8, 2024 Fishing and Fellowshipping', divider='rainbow')
+st.subheader('Welcome to a look of m', divider='rainbow')
 st.subheader('_Fishing with Friends and Family_ is :blue[cool] :sunglasses:')
 
 #st.balloons()
@@ -49,9 +49,9 @@ st.video(video_bytes)
 #vimeo_url = "https://vimeo.com/837186496"
 #st.video(vimeo_url)
 
-
+#Thank You Legacy Parents!!
 """
-# Thank You Legacy Parents!!
+<p> whos world is this </p>
 """
 
 """
