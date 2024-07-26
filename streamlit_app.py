@@ -133,6 +133,9 @@ st.image(image6, caption='Jesse Resume')
 image7 = Image.open('images/Jesseresume2.jpeg')
 st.image(image7, caption='Jesse Resume2')
 
+image8 = Image.open('images/kudosblue.jpg')
+st.image(image8, width-300, height=200)
+
 
 
 st.markdown("Fishing for Striped Bass and Bluefish")
