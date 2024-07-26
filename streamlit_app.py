@@ -13,15 +13,15 @@ from PIL import Image
 #import plotly as px
 #import plotly.figure_factory as ff
 
-
+# Draft of Jesse Resume!
 """
-#Draft of Jesse Resume!
 
 
-"""
 
 """
 #Hi Legacy Scholars, Parents, and Chaperones
+"""
+
 
 """
 
