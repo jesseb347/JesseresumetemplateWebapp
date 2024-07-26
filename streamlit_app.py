@@ -26,8 +26,8 @@ from PIL import Image
 """
 
 st.title('Professional Portfolio of     Jesse Boateng')
-st.subheader('Welcome to a look of m', divider='rainbow')
-st.subheader('_Fishing with Friends and Family_ is :blue[cool] :sunglasses:')
+st.subheader('Welcome to a look of my professional journey!', divider='rainbow')
+
 
 #st.balloons()
 
