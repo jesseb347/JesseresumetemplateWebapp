@@ -127,28 +127,6 @@ www.franklydatascience.com
 """
 # What We Caught
 """
-
-
-image = Image.open('images/rickfordstriperbass1.jpg')
-
-st.image(image, caption='Legacy Parent with Two Striped Bass')
-
-
-image2 = Image.open('images/AllenStripedBass12lbs.June8.2024jpg.jpg')
-st.image(image2, caption='Legacy Parent with 13Lb Striped Bass')
-
-image3 = Image.open('images/GregJ45LB.jpg')
-
-st.image(image3, caption='Legacy Founder with a 45LB Striped Bass')
-
-image4 = Image.open('images/kudosblue.jpg')
-
-st.image(image4, caption='Legacy Scholar with a 15LB, 36 inch Bluefish')
-
-image5 = Image.open('images/AllanStriper13lb.jpeg')
-
-st.image(image5, caption='Legacy Parent with a 13LB Striped Bass')
-
 image6 = Image.open('images/JesseResume.jpeg')
 st.image(image6, caption='Jesse Resume')
 
