@@ -143,7 +143,9 @@ st.image(image9, caption='resized image using PIL')
 
 image10 = Image.open('images/JesseResume.jpeg')
 new_image = image10.resize((300,200))
-st.image(image10, caption='resized image using PIL')
+
+
+st.image(image10, use_column_width=True)
 
 
 
