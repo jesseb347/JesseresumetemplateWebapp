@@ -58,74 +58,18 @@ ultimately led me to pursue a graduate degree in this field.
 #Thank You Legacy Parents!!
 
 
-"""
+
 # Fishing Strategy from June 8, 2024 Event
-"""
 
-"""
-45 lb striper on a private charter with The Legacy Foundation of Hartford kids today. 
-We caught like 12 stripers. 7 blue fish and that fish in the picture was 45 pounds times 25 Dollars a pound. 
-Its a thousand dollar fish. 45 lbs x 24.99 a lb on a fish market price = $1,125 striped bass. Returned to the ocean for another day. 
-How did we do this? 
-Some of the Secret is Right people with the know how and resources and gratitude to execute for our future leaders.
-"""
 
-"""
-Here is some important data points:
-"""
-"""
-June 8, 2024, the Trip
-"""
-"""
-Fishing at "The Race"
-"""
-"""
-Average depth: 140 feet
-"""
-"""
-Near where: Fishers Island NY
-"""
-"""
-Targeted Fish: Striped Bass
-"""
-"""
-Other Fish Caught: Bluefish
-"""
-"""
-Fishing Pole Equipment: Medium to Heavy Rod
-"""
-"""
-Reel Type: Penn Conventional Reel
-"""
-"""
-Fishing Line: 50 LB Monofilament 
-"""
-"""
-Name of Participants: Anglers, Boat Captain, Mate
-"""
 
-"""
-Method of catching: 
-Using 10 ounce Diamond jig lures.
-Technique:
-"""
+#45 lb striper on a private charter with The Legacy Foundation of Hartford kids today. 
+#We caught like 12 stripers. 7 blue fish and that fish in the picture was 45 pounds times 25 Dollars a pound. 
+#Its a thousand dollar fish. 45 lbs x 24.99 a lb on a fish market price = $1,125 striped bass. Returned to the ocean for another day. 
+#How did we do this? 
+#Some of the Secret is Right people with the know how and resources and gratitude to execute for our future leaders.
 
-"""
-On a drift, drop the diamond jig to the bottom on ocean floor, once hitting the floor, Reel up 15 to 30 times and drop the diamond jig back to the ocean floor. Repeat until the Captain instructs the Anglers to Reel up the lines so another drift can be done.
-"""
 
-"""
-Bucktails and Swimmer lures on a 3 way rig.
-"""
-
-"""
-Trolling with two umbrella rigs which simulate eels and sand eels in distress.
-"""
-"""
-Thanks
-Christopher Enam Franklin, MS
-www.franklydatascience.com 
-"""
 
 
 """
