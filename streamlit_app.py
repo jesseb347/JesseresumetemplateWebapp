@@ -26,7 +26,7 @@ from PIL import Image
 """
 
 st.title('Professional Portfolio of     Jesse Boateng')
-st.subheader('Welcome to a look of my professional journey!', divider='rainbow')
+st.subheader('Welcome to an Overview of my professional journey!', divider='rainbow')
 
 
 #st.balloons()
@@ -36,13 +36,19 @@ st.subheader('Welcome to a look of my professional journey!', divider='rainbow')
 
 
 """
-# The Beginning of the Trip
+# About Me
+"""
+"""
+I firmly believe that timing is crucial. During the COVID-19 pandemic, while spending
+countless hours at home, I had the chance to reflect on my life. It became clear to me that there
+were better job outlooks and missed opportunities waiting for me. Motivated by this realization, I
+decided to rekindle my passion for learning. With the rapid advancements in technology, I
+became intrigued by how it all worked. This curiosity urged me to enroll in a course on Linux
+operating systems. As I immersed myself in the material, my interest in cyber security began to
+grow. The idea of acquiring the skills to defend against cyber threats fascinated me and
+ultimately led me to pursue a graduate degree in this field.
 """
 
-video_file = open('images/testclip.mov', 'rb')
-video_bytes = video_file.read()
-
-st.video(video_bytes)
 
 #st.audio("Rev.mp3", format="audio/mpeg", loop=True)
 
@@ -50,9 +56,7 @@ st.video(video_bytes)
 #st.video(vimeo_url)
 
 #Thank You Legacy Parents!!
-"""
-whos world is this 
-"""
+
 
 """
 # Fishing Strategy from June 8, 2024 Event
@@ -125,7 +129,7 @@ www.franklydatascience.com
 
 
 """
-# What We Caught
+# My Resume
 """
 image6 = Image.open('images/newres1.png')
 st.image(image6, use_column_width=True, caption='Jesse Resume')
@@ -133,87 +137,10 @@ st.image(image6, use_column_width=True, caption='Jesse Resume')
 image7 = Image.open('images/newres2.png')
 st.image(image7, use_column_width=True, caption='Jesse Resume2')
 
-image10 = Image.open('images/JesseResume.jpeg')
-new_image = image10.resize((300,200))
-
-
-st.image(image10, use_column_width=True)
 
 
 
 
 
 
-st.markdown("Fishing for Striped Bass and Bluefish")
-
-multi = '''We had fun and learned at the same time!'''
-st.markdown(multi)
-
-"""
-
-
-
-"""
-df2 = pd.DataFrame(
-    [
-        {"Team A": "John", "Role": "Captain", "Fish Caught": 21},
-        {"Team A": "Sara", "Role": "Data Wrangler", "Fish Caught": 4},
-        {"Team A": "Tony", "Role": "Team Liason", "Fish Caught": 10},
-        {"Team A": "Patricia", "Role": "Assistant Captain", "Fish Caught": 6},
-        {"Team A": "Tina", "Role": "Statistics Person", "Fish Caught": 30},
-    ]
-)
-
-
-st.dataframe(df2, use_container_width=True)
-
-st.bar_chart(df2, y = 'Team A', x='Fish Caught')
-
-# Crypto monthly data
-dc = {'Fish Caught':[1,2,3,4,5,6,7,8,9,10,11],
-     'Fishing Casts':[477,387,444,462,384,297,192,327,221,193,204]}
-     #'Ethereum':[3767,2796,2973,3448,2824,1816,1057,1630,1587,1311,1579]}
-
-fishdata = pd.DataFrame(data = dc)
-st.bar_chart(fishdata, y = 'Fish Caught', x='Fishing Casts')
-
-
-
-"""
-#Demo of Slider
-"""
-
-with st.echo(code_location='below'):
-    total_points = st.slider("Number of points in spiral", 1, 5000, 2000)
-    num_turns = st.slider("Number of turns in spiral", 1, 100, 9)
-
-    Point = namedtuple('Point', 'x y')
-    data = []
-
-    points_per_turn = total_points / num_turns
-
-    for curr_point_num in range(total_points):
-        curr_turn, i = divmod(curr_point_num, points_per_turn)
-        angle = (curr_turn + 1) * 2 * math.pi * i / points_per_turn
-        radius = curr_point_num / total_points
-        x = radius * math.cos(angle)
-        y = radius * math.sin(angle)
-        data.append(Point(x, y))
-
-    st.altair_chart(alt.Chart(pd.DataFrame(data), height=500, width=500)
-        .mark_circle(color='#0068c9', opacity=0.5)
-        .encode(x='x:Q', y='y:Q'))
-
-st.write("Streamlit Play:) creating dataframes and plotly plots")
-
-"""
-# June 8, 2024 Fishing Event Scheduling Tracker with Slider Functionality
-"""
-
-from datetime import time
-
-appointment = st.slider(
-    "Legacy Scholars use the Slider to show when we caught the most fish, its in Military Time, you can do it! :",
-    value=(time(11, 30), time(12, 45)))
-st.write("Legacy Scholars, you said we caught the most fish between these times:", appointment)
 
