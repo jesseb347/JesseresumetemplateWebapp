@@ -127,10 +127,10 @@ www.franklydatascience.com
 """
 # What We Caught
 """
-image6 = Image.open('images/JesseResume.jpeg')
+image6 = Image.open('images/new resume 1.jpeg')
 st.image(image6, use_column_width=True, caption='Jesse Resume')
 
-image7 = Image.open('images/Jesseresume2.jpeg')
+image7 = Image.open('images/new resume 2.jpeg')
 st.image(image7, use_column_width=True, caption='Jesse Resume2')
 
 image10 = Image.open('images/JesseResume.jpeg')
